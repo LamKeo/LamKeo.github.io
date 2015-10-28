@@ -6,9 +6,11 @@
 2. Tacos
 3. Pizza
 
-* September
-* 13
-* 1986
+###Places I have lived: <h1>
+
+* California
+* Boston
+* Michigan
 
 
 
