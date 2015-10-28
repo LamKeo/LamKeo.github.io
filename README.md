@@ -14,10 +14,7 @@
 
 
 
-'''javascript
-var message = "Hello, World"; {
-  return (message) 
-}
+
 
 
 
