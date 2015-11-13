@@ -3,6 +3,20 @@
 var playerMove;
 var compMove;
 
+//Gives the player the option of pressing enter
+$(document).ready(function() {
+  // Listeners
+  var btn = document.getElementsByTagName("body")[0];
+  btn.addEventListener("keydown", function(event) {
+    // look for specific keys to be pressed
+    if (event.keyCode == 13) {
+      console.log("enter has been pressed!");
+      myFunction();
+    }
+    // console.logs the keyCode for whatever button is pressed
+    //console.log(event.keyCode);
+  });
+});
 
 // then call the function
 // but lets make sure there is an answer
