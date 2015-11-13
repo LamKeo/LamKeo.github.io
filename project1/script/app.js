@@ -2,7 +2,7 @@
 //global variables that can be used anywhere because they are outside of the function.
 var playerMove;
 var compMove;
-var playerScore;
+// var playerScore;
 // var compScore;
 // var round = 0;
 
